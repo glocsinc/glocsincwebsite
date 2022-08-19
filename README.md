@@ -1,1 +1,3 @@
 # glocsincwebsite
+
+Complete the navbar
